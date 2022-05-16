@@ -83,7 +83,15 @@ select browser and give github username and password when you do login.
 
 automatically your codes will push to git hub repository.
 
+__________________________________________________________________________
 
+next time when you want to update just execute these 3 command
+
+git add .
+
+git commit -m "message"
+
+git push -u origin main
 
 
 
