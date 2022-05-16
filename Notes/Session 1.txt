@@ -1,0 +1,209 @@
+Input Devices
+____________________________________
+
+2. Mouse:
+-----------
+pointing Device
+cursor- control devices
+
+mouse having three things: left click, right click and scroller (wheel)
+
+Advantages
+___________
+
+1. Easy to use
+2. not very expensive
+3. moves your cursoir faster than the use of arrow key
+
+*****************************************
+
+3. Microphone
+______________________
+
+it is an input device to input sound that we can store in digital form.
+
+Uses: transfer the data from one location to another location
+--> multimedia presentation
+--> mixing musics
+
+4. Touch Screen
+___________________________________
+it is a computer display which is used as an input device.
+these screens are very sensitive to the pressure, user can intreract with your computer by touching on some pictures, buttons etc.
+
+ types of touch screens
+    1. Resistive
+    2. Surface Wave
+    3. Capacitive 
+
+5. Light Pen
+__________________________________
+
+It is pointing device which is similar to Pen.
+
+You can select Menu, draw pictures on monitor.
+
+--> it consist of Photocell and optical system which is placed in a small tube.
+
+--> when you move your pen on screen or when you click on some buttons provided on your pen, phtotosell will sense the location on screen and according to that it will send the singles to CPU and CPU will start processing for the same.
+
+6. Web Camera
+_____________________________
+
+-->It is an input device because it captures video image of the scene infront of screen.
+--> we can use inbuild camera in laptop or we can connect with the other camera as well which you can connect with help of USB cable.
+
+
+OutPut Device
+_________________________
+
+Required to provide an output.
+
+1. Monitor
+_______________________________
+
+VDU (virtual display unit)
+
+trying to display the image in the form of pixeles.
+
+2 types
+-------------------------------
+	1.CRT (Cathod Ray Tube)
+		numbers of characters displayed on screen with help of pixles.
+		per screen you can display 25 lines
+		and in one line you can display 80 characters.
+
+	Disadvantage:
+		big in size
+		high power consumptions
+
+	2.Flat Panel Display
+
+		light weight monitors which you can hand on wall.
+		
+		2 types.
+		1. Emissive Display
+			converts electrical energy into lights
+			example: LED (Light emitting Diodes)
+		2. Non- Emissive Display:
+			use optical effects to convert sun light or light from some other source into graphics 				patterns.
+
+			LCD (Liquid-crystal display)
+
+
+
+
+***********************************************************************************************
+2. Printer
+--------------------------------------------
+
+to print the data, when we print it it is providing an output.
+
+1. impact printers:
+
+	it printd characters by striking them on ribbon and then it is pressed on paper.
+	
+	Features:
+		-->very noisy
+		-->it requires physical contact on paper to print image
+		-->very low consumable cost
+		-->usefull for bulk printing
+
+
+	2 types
+
+	1. character printer
+		prints one character at a time.
+		examples. DMP (Dot Matrix Printer) , Daisy Wheel
+	2. Line printers:
+		print one line at time
+		examples: Drum Printer, Chain Printer
+				
+
+2. Non- impact Printers:
+
+	prints the characters on paper but without any ribbon. It prints full page at a time. thats why its is also called as a page printer.
+
+	1. Laser Printers:
+		uses laser lights to produce dots needed to form the characters to be printed on a page.
+		 very high in speed, high quality, supports diffrent graphics and fonts
+
+	2. InkJet Printers:
+		this is based on new technology
+		it print characteres by sprraying small dot  ink on paper and produce high quality output.
+
+		
+*********************************************************************************************************
+3. Speaker
+______________________________________________
+
+it is an output device which generate sounds when you connect with compute or any other device.
+
+it receives sound data from computer in the form of electrical energy and convert it into sound waves and you will get audio as an output.
+
+4. CD
+_________________________________________________
+
+Compact Disk
+
+to store data.
+store limited amount of data.
+
+5. DVD
+______________________________________________
+
+digital versatile disc
+
+store huge amount of data.
+
+store audio and video files.
+with help of DVD player you can transfer data to your TV and speakers.
+
+**************************Storage Devices*******************************************
+
+1. Flash Memory
+
+it is long life and non volatile strong chip which is widely used in embedded system. It can store data and info even if the power is off.
+
+2. Optical Disk
+
+usually use to write and read data.
+encodes your binary information in the forms of some special material and store data in that.
+
+ex. external Hard drives
+
+3. Local Drives
+
+you can say it as a local disk as well.
+ hard drive (HDD) or SSD (solid state drive) which is connected to you computer.
+
+primary drive is C: , you can also divide them in more D:, E:, F: etc..
+
+4. Magnetic Tape
+
+you can write data on single side.
+
+you can do only forward and reverce operations with that (squencial Access)
+
+store limited amount of data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

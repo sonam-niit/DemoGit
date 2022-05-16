@@ -1,0 +1,61 @@
+***********Processing Devices **************
+
+1. Mother Board
+_____________________
+
+its also called as MB, main board, main circuit board
+
+biggest board in computer system.
+
+It allocates power and also communicate between CPU, RAM and other components as well.
+
+2. Processor
+_____________________________
+
+It is also called as CPU.
+Logical citrcuit which respond to the basic instruction which executes on your computer.
+you can see CPU as a IC (Integrated Circuit) Chip in a computer, which is responcible for interpreting most of your computer command.
+
+	elements:
+		ALU(Aruthmetic and Logical Unit)
+		CU (Conrol Unit)
+		Cache Memory ( L1 and L2)
+		Registers (Temp Storages)
+
+3. RAM
+----------------------
+
+Random Access Memory
+
+it is a hardware in computing device where OS(operating system), diffrent applications(MS Word, MS Powerpoint, Media player, browser) which use data to load application.
+
+RAM is Volatile memory.
+
+4. ROM
+----------------------
+
+Read Only Memory
+
+it is a memory device or storage medium which stores information permanently.
+
+it is Non- volatile memory.
+
+5. Switched Mode Power Supply
+_____________________________________
+
+It is an electronic power supply which incorporates a switching regulator to convert electrical power effectivly.
+
+SMPS: transfers power from DC to AC.
+
+
+
+
+
+
+
+
+
+
+
+
+
